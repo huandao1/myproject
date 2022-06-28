@@ -1,0 +1,171 @@
+2021-05-28 18:07:48
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:07:48
+Request_{"AppId":"2017022215330002","Nonce":1622196468,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"V9knqsD\/3fGugG16\/GxoEXhPFRgJ+zsCnSxumAZRtd0="}
+
+2021-05-28 18:07:49
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:13:13
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:13:13
+Request_{"AppId":"2017022215330002","Nonce":1622196793,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"3WIkPAvtqZCccAiHwj8tN6hAfoHcnrKiqNbJDeJJCPI="}
+
+2021-05-28 18:13:13
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:13:23
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:13:23
+Request_{"AppId":"2017022215330002","Nonce":1622196803,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"s6W0hrPn0sAISpVTM7vnI3HmEhOklJnsxoRVgmg57Qs="}
+
+2021-05-28 18:13:23
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:15:43
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:15:43
+Request_{"AppId":"2017022215330002","Nonce":1622196943,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"PKF0nrZTVTdKyYI1kO9DvpGXmFxG7eu2ShFchjDoS08="}
+
+2021-05-28 18:15:43
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:19:13
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:19:13
+Request_{"AppId":"2017022215330002","Nonce":1622197153,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"eiUIEiB+YWb0jlewf3Y5Gbrw7e9HtwLqj5Oq0lICHDs="}
+
+2021-05-28 18:19:13
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:19:29
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:19:29
+Request_{"AppId":"2017022215330002","Nonce":1622197169,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"28OrT36NDfEX+vsHAE1+\/hgTLkuJW5jYxDXsyrMC2sY="}
+
+2021-05-28 18:19:29
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:20:16
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:20:16
+Request_{"AppId":"2017022215330002","Nonce":1622197216,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"dWPuw7BM3VYmyHSxBfgJ1sB7K2ieLvX7illu7Ez6JnI="}
+
+2021-05-28 18:20:16
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:21:17
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:21:17
+Request_{"AppId":"2017022215330002","Nonce":1622197277,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"SyDSZz4pZurP3IfSVINgdUnWwp0EmN2zVOitNsGQ6+o="}
+
+2021-05-28 18:21:17
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:21:31
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:21:31
+Request_{"AppId":"2017022215330002","Nonce":1622197291,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"lDjBGU2OGIIOSTTH8RJjjxCp4IUwuLtDi7iiqYR691E="}
+
+2021-05-28 18:21:31
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:21:46
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:21:46
+Request_{"AppId":"2017022215330002","Nonce":1622197306,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"4FfFvUGysULoCxBNYFnEVbzhgtx8EElw\/Be8HrMhVIc="}
+
+2021-05-28 18:21:46
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:21:48
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:21:48
+Request_{"AppId":"2017022215330002","Nonce":1622197308,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"9RR+PQ+eME+fxVNv47BYauIxriwiwvN6tilcgAnkLhw="}
+
+2021-05-28 18:21:48
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:21:49
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:21:49
+Request_{"AppId":"2017022215330002","Nonce":1622197309,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"t2vJei1WxteNAWr384Zc0EjCN\/ebImdGvgJRt6lf46M="}
+
+2021-05-28 18:21:49
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:21:50
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:21:50
+Request_{"AppId":"2017022215330002","Nonce":1622197310,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"tRFZP7FkFpWyOB4tG5lkDwrf2I0XeAwAFWaoU1QeOuI="}
+
+2021-05-28 18:21:50
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:21:51
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:21:51
+Request_{"AppId":"2017022215330002","Nonce":1622197311,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"8i4SKfDOkRlYXI3vvvTnNRX6+GmM7yw\/BUfUBvLt1B0="}
+
+2021-05-28 18:21:51
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:22:24
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:22:24
+Request_{"AppId":"2017022215330002","Nonce":1622197344,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"K3Vlp6ywI4ZFMuro00wz68yWuz3H90sd3l0nk9fT3jE="}
+
+2021-05-28 18:22:25
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:23:02
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:23:02
+Request_{"AppId":"2017022215330002","Nonce":1622197382,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"no90Aw+sn\/5TIRN25CT3ZrY35KYpyEhe2HZZUNtVs1E="}
+
+2021-05-28 18:23:02
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 18:23:24
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 18:23:24
+Request_{"AppId":"2017022215330002","Nonce":1622197404,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"zMJK7onjFuUnbtkaXOpll3XCXah3+PJFtTiHlUKNt2c="}
+
+2021-05-28 18:23:24
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 19:00:36
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 19:00:36
+Request_{"AppId":"2017022215330002","Nonce":1622199636,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"fsr\/WY2hpIpf2rboHSHoxWT0lp\/UZzySWj\/scGIb6Zs="}
+
+2021-05-28 19:00:41
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 19:05:51
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-28 19:05:51
+Request_{"AppId":"2017022215330002","Nonce":1622199951,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"KefxOmZLWF2fr\/mkP99NnkrTtvzSGuo13\/lrCQwOVu0="}
+
+2021-05-28 19:05:51
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+

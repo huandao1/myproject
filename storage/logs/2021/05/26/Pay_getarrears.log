@@ -1,0 +1,9 @@
+2021-05-26 13:50:33
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsListDetail
+
+2021-05-26 13:50:33
+Request_{"AppId":"2017022215330002","AccessToken":"bYhm7qLwLGjhUA26valbuacD5a8uw+0EKukDeOri2c4znyrANm7ccNpvXUeicsO2","Nonce":1622008233,"citycode":"440600","PlateNumber":"\u7ca4B12345","pageIndex":"1","pageSize":"20","Sign":"qiQk4kI3VV+\/AK65HEGvJkqYw3aTShn7\/OSS\/mvbmqE="}
+
+2021-05-26 13:50:34
+Response_{"RetCode":-1,"Message":"未获取合适的数据","Data":{}}
+

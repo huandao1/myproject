@@ -1,0 +1,54 @@
+2021-05-11 14:43:22
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsList
+
+2021-05-11 14:43:22
+Request_{"AppId":"2017022215330002","AccessToken":"qrFTPOGCo56u+lk2ellC5cm6mjjbRsYiulo3vLICBVkQJNu9c+g9Qy9cowXvI58w","Nonce":1620715402,"citycode":"440600","carCode":"","pageIndex":"","pageSize":"","Sign":"3yUee1W\/EPoj+M1VDqGao5OkyQxOFgR4yQ7LZbKLAM4="}
+
+2021-05-11 14:43:23
+Response_
+
+2021-05-11 15:19:19
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsListDetail
+
+2021-05-11 15:19:19
+Request_{"AppId":"2017022215330002","AccessToken":"qrFTPOGCo56u+lk2ellC5cm6mjjbRsYiulo3vLICBVkQJNu9c+g9Qy9cowXvI58w","Nonce":1620717559,"citycode":"440600","carCode":"","pageIndex":"","pageSize":"","Sign":"MsvYpIZ1djJjhTvsaA24hVCOdSBT+W1+D+LuSkfLwAM="}
+
+2021-05-11 15:19:20
+Response_
+
+2021-05-11 15:29:00
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsListDetail
+
+2021-05-11 15:29:00
+Request_{"AppId":"2017022215330002","AccessToken":"xyVtvvMaYaSANhsgUTDB\/n9mI\/YDS\/1ZTktr9OkCivPd69Pj7Oau0Xz2RUhYgAp2","Nonce":1620718140,"citycode":"440600","PlateNumber":"","pageIndex":"","pageSize":"","Sign":"e\/eDFv+6zXerF7lQRB+B4gw0z0nAjG5+mVsheJsweEM="}
+
+2021-05-11 15:29:00
+Response_
+
+2021-05-11 15:30:32
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsListDetail
+
+2021-05-11 15:30:32
+Request_{"AppId":"2017022215330002","AccessToken":"xyVtvvMaYaSANhsgUTDB\/n9mI\/YDS\/1ZTktr9OkCivPd69Pj7Oau0Xz2RUhYgAp2","Nonce":1620718232,"citycode":"440600","PlateNumber":"","pageIndex":1,"pageSize":20,"Sign":"+F36sMhc7mRzGimjApOaI62rIr6\/95aMFHs72xBxLUg="}
+
+2021-05-11 15:30:32
+Response_{"RetCode":-1,"Message":"未获取合适的数据","Data":{}}
+
+2021-05-11 15:35:55
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsListDetail
+
+2021-05-11 15:35:55
+Request_{"AppId":"2017022215330002","AccessToken":"xyVtvvMaYaSANhsgUTDB\/n9mI\/YDS\/1ZTktr9OkCivPd69Pj7Oau0Xz2RUhYgAp2","Nonce":1620718555,"citycode":"440600","PlateNumber":"","pageIndex":"1","pageSize":"20","Sign":"hrzPdQ0\/Q35e3mNo1xEMC0Vcp7pHzYVX6Uzwx6TTkNk="}
+
+2021-05-11 15:35:55
+Response_{"RetCode":-1,"Message":"未获取合适的数据","Data":{}}
+
+2021-05-11 16:39:06
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsListDetail
+
+2021-05-11 16:39:06
+Request_{"AppId":"2017022215330002","AccessToken":"xyVtvvMaYaSANhsgUTDB\/n9mI\/YDS\/1ZTktr9OkCivPd69Pj7Oau0Xz2RUhYgAp2","Nonce":1620722346,"citycode":"440600","PlateNumber":"","pageIndex":"1","pageSize":"20","Sign":"J9pFOWQCiYvPdzcjJ7XbtcU\/lBGD+8PCsQoE6MIGoVk="}
+
+2021-05-11 16:39:06
+Response_{"RetCode":-1,"Message":"未获取合适的数据","Data":{}}
+

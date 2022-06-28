@@ -1,0 +1,27 @@
+2021-05-28 08:59:23
+Url_http://198.98.98.161:1905/api/Accounts/OrderList
+
+2021-05-28 08:59:23
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622163563,"LastId":0,"Sign":"uTidXwqb4OCJ2\/PCnWhQpBLHpKC1ua\/axOaPfpmNMg4="}
+
+2021-05-28 08:59:23
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 08:59:23
+Url_http://198.98.98.161:1905/api/Accounts/OrderList
+
+2021-05-28 08:59:23
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622163563,"pageSize":9999,"lastID":0,"CityCode":"440600","BargainOrderType":"0","Sign":"HJxoFclQAhaMz2aujWHrvRlILwVSn+kulxkvEWfIX6Y="}
+
+2021-05-28 08:59:23
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-28 08:59:23
+Url_http://198.98.98.161:1905/api/Parkings/GetParkHistoryOrderList
+
+2021-05-28 08:59:23
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622163563,"pageSize":9999,"lastID":0,"CityCode":"440600","BargainOrderType":"1","Sign":"BDrV1lo9\/QoUV7tdDzof5dUBA+ilY2EiwX+rD7W0WpA="}
+
+2021-05-28 08:59:23
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+

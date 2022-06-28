@@ -1,0 +1,582 @@
+2021-05-28 09:13:53
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 09:13:53
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622164433,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"wzTb+YwZowkGHILgpMpqV3hrc2MQltqPz9NYkMPiuEg="}
+
+2021-05-28 09:15:01
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 09:15:01
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622164501,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"ralH4hjkc3BNdzKDLpNramvFPifI17BNIt3tMQkMVe0="}
+
+2021-05-28 09:15:06
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 09:15:06
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622164506,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"HQd19Tf+ypnFO1ooDfGuDAFrFHnAs3j0ctA0f8wPfCg="}
+
+2021-05-28 09:28:51
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 09:28:51
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622165331,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"E4IdWbOiTLYCJKZVTtTAMbaGOEqEg8YWbUYQ2V+O2xI="}
+
+2021-05-28 09:32:49
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 09:32:49
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622165569,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"lrb8XUMEU38nMZKtQP8sHp0BdpDl393rdoF8gLmRoP4="}
+
+2021-05-28 09:32:51
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 09:32:51
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622165571,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"5R1254UCH0TZ6yRw0VL\/fV0zJr\/VykI3F5\/pv1Ytoio="}
+
+2021-05-28 09:34:59
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 09:34:59
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622165699,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"qqVTuPSoCokQltDUZiNmAXkOQfLA4rgHVDYPKg2H+zU="}
+
+2021-05-28 09:37:52
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 09:37:52
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622165872,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"6xdoWfQtyYtrb9g8e3OV9uekeRtTPJrFaNcvkaogkdY="}
+
+2021-05-28 09:40:40
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 09:40:40
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622166040,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"ZOXLi\/MNT++Xj1YzXEAoWUFga9Qpl7NVHTag020xlKM="}
+
+2021-05-28 09:47:18
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 09:47:18
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622166438,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"i5VrQtOOmjTr4r5AunINstkbfOLSHwNv7ZTAQHpdksI="}
+
+2021-05-28 09:48:17
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 09:48:17
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622166497,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"6c++YrahxVRX7BssH8+GwjSnm9lWURUEBBK+C517apU="}
+
+2021-05-28 10:02:05
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:02:05
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167325,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"YPD9lrKRtIhrd6nawlqfnLibdqh6AFg+WcyPpThevt4="}
+
+2021-05-28 10:02:08
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:02:08
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167328,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"\/kVjp+Q8ASKAmKTAffD3kB1uvE1iUnRSq0UNX3u0s4E="}
+
+2021-05-28 10:02:14
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:02:14
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167334,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"mPcRVn\/uQ9sLK4mUwsswzGsCn31TUTZC02cpofCl1As="}
+
+2021-05-28 10:05:48
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:05:48
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167548,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"v6pT6F0p6oec0qhnB2yUk9pbO5Ph7Hs+12dyyAS4suk="}
+
+2021-05-28 10:05:53
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:05:53
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167553,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"tW1G8nxG2SlTcdQFNjRoVzv3AtaUOw3iHWo9odABiNA="}
+
+2021-05-28 10:07:49
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:07:49
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167669,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"Q20D4VkqbKDk8wbdB2SCGnl7eee7GK8CHmtdlAz3Orc="}
+
+2021-05-28 10:08:07
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:08:07
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167687,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"JxXRXa1tJ\/7aUdZIjmyxtX4N6W1eTNgC0bYcpezMS8o="}
+
+2021-05-28 10:08:50
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:08:50
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167730,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"rTYv\/MCmI+sufqePzZjjJIiEzeaW2NP1GK8dvRGqGc8="}
+
+2021-05-28 10:09:11
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:09:11
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167751,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"aicx1f0HBCjcFgPCzzo+FKNWx\/BemX709NElaZbNkiA="}
+
+2021-05-28 10:09:40
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:09:40
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167780,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"G413txpoVHB9GntUh8+89qMHwijpyOeQWchmsdeNzI4="}
+
+2021-05-28 10:09:41
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:09:41
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167781,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"swTg6NRIYWgeODB4qYquo8iODArRCfB6NGmGrT92J+E="}
+
+2021-05-28 10:11:42
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:11:42
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167902,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"6y34DNbLbaYEJZJz8gvS7hb6M\/0+WwS1IbuGT3GSyDE="}
+
+2021-05-28 10:11:47
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:11:47
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167907,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"LavfpS0jSPsmtt28bojPc56LewD0aOGTWWlJO83luUA="}
+
+2021-05-28 10:11:48
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:11:48
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167908,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"wEj8Ix2bp0ssQMkDa9H5xzB4kOKC+zm\/MFnBr7pEEmE="}
+
+2021-05-28 10:12:17
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:12:17
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622167937,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"t5NmaDm0u9rc8KAd7UYrMBOdk2w60K9PRhZN4XMMkKE="}
+
+2021-05-28 10:13:27
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:13:27
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622168007,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"vJHEqZ669jLDfCpEs64LBYFwZcsiO1wOGgD7Mkaja3k="}
+
+2021-05-28 10:16:43
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:16:43
+Request_{"AppId":"2017022215330002","AccessToken":"u462cIdndbkrOEH22zWNnqcQk8hIbfe3ZOiisLACIoHf\/9fDRYwbCwAuqGofVrs7","Nonce":1622168203,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"gMCvlJYTzaA3kqxOUXIWiha6uSyeWf1YfaSkwm+4DpA="}
+
+2021-05-28 10:21:23
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:21:23
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622168483,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"aAqtwD1O2AGmQod9AcBpWIERZmnaQylJgXB5xOT\/wpY="}
+
+2021-05-28 10:21:28
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:21:28
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622168488,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"EAHPWp\/ChyALHCqiOQuMbTVYRqSIWfT45aacmtQgY0s="}
+
+2021-05-28 10:21:31
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:21:31
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622168491,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"fYNRKUvXvxJTa4ML\/iCn5zcEVs\/+ZSbQ2UzgICLSQ\/g="}
+
+2021-05-28 10:22:03
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:22:03
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622168523,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"KE2pVumuNhGxS5TFKJ6Ygez8NAG8FNKHCVym5gXBp4w="}
+
+2021-05-28 10:41:05
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 10:41:05
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622169665,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"AQoqm72syA4xOhfU\/q8xS3vaoYvdX8vjSArT0YfCfq4="}
+
+2021-05-28 11:08:35
+Action_index
+
+2021-05-28 11:08:35
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 11:08:35
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622171315,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"sT\/5hC\/ARSfouUYD+1MJNkt61avH8qJNBljldzKmEMg="}
+
+2021-05-28 11:08:35
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1171,"Count":2,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1158,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1},{"RelationType":6,"BTVName":"外观","VPNMId":42,"VoucherId":1171,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-21","FailureTime":"2021-06-19","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":0,"FSMoney":"0","VPMoney":10,"UseType":1,"PayType":0,"AppeType":0,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 11:10:14
+Action_index
+
+2021-05-28 11:10:14
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 11:10:14
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622171414,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"YE4gc1yZaNg4e2rf4KWt9HREl+sR0fq4Ixq0hz3FiY8="}
+
+2021-05-28 11:10:14
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1171,"Count":2,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1158,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1},{"RelationType":6,"BTVName":"外观","VPNMId":42,"VoucherId":1171,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-21","FailureTime":"2021-06-19","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":0,"FSMoney":"0","VPMoney":10,"UseType":1,"PayType":0,"AppeType":0,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 11:10:48
+Action_index
+
+2021-05-28 11:10:48
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 11:10:48
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622171448,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"HLdFw\/YWTkgSIDWs0sZFeBhce4j8VhVh58hOE6gXqDA="}
+
+2021-05-28 11:10:48
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1171,"Count":2,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1158,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1},{"RelationType":6,"BTVName":"外观","VPNMId":42,"VoucherId":1171,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-21","FailureTime":"2021-06-19","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":0,"FSMoney":"0","VPMoney":10,"UseType":1,"PayType":0,"AppeType":0,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 11:11:49
+Action_index
+
+2021-05-28 11:11:49
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 11:11:49
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622171509,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"qsa7V3SUCs7MGqVRqtIhjsMrsW4BeStBBMEB7Q9pVGo="}
+
+2021-05-28 11:11:49
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1171,"Count":2,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1158,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1},{"RelationType":6,"BTVName":"外观","VPNMId":42,"VoucherId":1171,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-21","FailureTime":"2021-06-19","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":0,"FSMoney":"0","VPMoney":10,"UseType":1,"PayType":0,"AppeType":0,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 11:12:35
+Action_index
+
+2021-05-28 11:12:35
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 11:12:35
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622171555,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"Dq91EcUyMYufPrsO6EnVdjEHGa8cePWxwr\/mC38qZ0Q="}
+
+2021-05-28 11:12:36
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1171,"Count":2,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1158,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1},{"RelationType":6,"BTVName":"外观","VPNMId":42,"VoucherId":1171,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-21","FailureTime":"2021-06-19","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":0,"FSMoney":"0","VPMoney":10,"UseType":1,"PayType":0,"AppeType":0,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 11:15:11
+Action_index
+
+2021-05-28 11:15:11
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 11:15:11
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622171711,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"iZGtElijI3IqMprq7bRg0JcHdUupIPDGDDmGi+ZD61E="}
+
+2021-05-28 11:15:11
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1171,"Count":2,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1158,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1},{"RelationType":6,"BTVName":"外观","VPNMId":42,"VoucherId":1171,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-21","FailureTime":"2021-06-19","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":0,"FSMoney":"0","VPMoney":10,"UseType":1,"PayType":0,"AppeType":0,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 11:15:12
+Action_index
+
+2021-05-28 11:15:12
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 11:15:12
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622171712,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"OYHIALMdBTKVyhuUH3Pxatq2FQFhUQ199EJDCL02LBc="}
+
+2021-05-28 11:15:12
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1171,"Count":2,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1158,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1},{"RelationType":6,"BTVName":"外观","VPNMId":42,"VoucherId":1171,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-21","FailureTime":"2021-06-19","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":0,"FSMoney":"0","VPMoney":10,"UseType":1,"PayType":0,"AppeType":0,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 11:15:59
+Action_index
+
+2021-05-28 11:15:59
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 11:15:59
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622171759,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"01e+XJDdEW\/ujmWyLvWecUo5AaVWMp\/vMYsL46KG+Es="}
+
+2021-05-28 11:15:59
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1171,"Count":2,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1158,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1},{"RelationType":6,"BTVName":"外观","VPNMId":42,"VoucherId":1171,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-21","FailureTime":"2021-06-19","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":0,"FSMoney":"0","VPMoney":10,"UseType":1,"PayType":0,"AppeType":0,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 11:16:26
+Action_index
+
+2021-05-28 11:16:26
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 11:16:26
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622171786,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"Tl8iuXM6c+Kw0EYX3kd+WoaFih7ptbH5HMgl0f09cqc="}
+
+2021-05-28 11:16:26
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1171,"Count":2,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1158,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1},{"RelationType":6,"BTVName":"外观","VPNMId":42,"VoucherId":1171,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-21","FailureTime":"2021-06-19","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":0,"FSMoney":"0","VPMoney":10,"UseType":1,"PayType":0,"AppeType":0,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 11:18:35
+Action_index
+
+2021-05-28 11:18:35
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 11:18:35
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622171915,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"xDnLv62CEKLdPIjZTh2c29RFgk8sQMeuvB2JdaTUnL0="}
+
+2021-05-28 11:18:35
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1171,"Count":2,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1158,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1},{"RelationType":6,"BTVName":"外观","VPNMId":42,"VoucherId":1171,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-21","FailureTime":"2021-06-19","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":0,"FSMoney":"0","VPMoney":10,"UseType":1,"PayType":0,"AppeType":0,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 11:19:03
+Action_index
+
+2021-05-28 11:19:03
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 11:19:03
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622171943,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"Rsssgu\/zf\/Zszy59AWHZPRp\/HKK4Cx5QLbTb8mkUpxo="}
+
+2021-05-28 11:19:03
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1171,"Count":2,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1158,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1},{"RelationType":6,"BTVName":"外观","VPNMId":42,"VoucherId":1171,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-21","FailureTime":"2021-06-19","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":0,"FSMoney":"0","VPMoney":10,"UseType":1,"PayType":0,"AppeType":0,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 13:13:11
+Action_index
+
+2021-05-28 13:13:11
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:13:11
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178791,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"i6SraN1FoR5egM0RzQco8kMB4o\/UTzDEan0RLXAX67c="}
+
+2021-05-28 13:13:11
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1171,"Count":2,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1158,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1},{"RelationType":6,"BTVName":"外观","VPNMId":42,"VoucherId":1171,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-21","FailureTime":"2021-06-19","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":0,"FSMoney":"0","VPMoney":10,"UseType":1,"PayType":0,"AppeType":0,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 13:13:26
+Action_getlist
+
+2021-05-28 13:13:26
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:13:26
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178806,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"YfHfz\/vYR0qfPV\/x\/3wnTHB9bPwaD0fvv3rCqkM9mQ4="}
+
+2021-05-28 13:13:26
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:13:28
+Action_getlist
+
+2021-05-28 13:13:28
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:13:28
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178808,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"0","Sign":"y5sv+qq2OdqLegqFvOPTf\/dRPAS7R\/xU6gMFCM9jDbc="}
+
+2021-05-28 13:13:28
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:13:29
+Action_getlist
+
+2021-05-28 13:13:29
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:13:29
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178809,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"pdGiXajCp2Dsq8NlpGJ9DCL0MWgGbvIXidedrS3uefw="}
+
+2021-05-28 13:13:29
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:13:38
+Action_getlist
+
+2021-05-28 13:13:38
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:13:38
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178818,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"0","Sign":"gQ8OwL08TKofFEI9YuGerciCjs5uMeNS9B\/XE061U9U="}
+
+2021-05-28 13:13:38
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:14:06
+Action_getlist
+
+2021-05-28 13:14:06
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:14:06
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178846,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"6qhe9\/+Xby1p7Ajhbr0U012+iMuVT9SicxoqHUsxasI="}
+
+2021-05-28 13:14:06
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:14:08
+Action_getlist
+
+2021-05-28 13:14:08
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:14:08
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178848,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"0","Sign":"LqdSxVEvmHk\/tQzctEcESg\/xO2QGKdKb5YDxvRALoJI="}
+
+2021-05-28 13:14:08
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:14:09
+Action_getlist
+
+2021-05-28 13:14:09
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:14:09
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178849,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"nEFx42jEacdZpntB5lVHxLh8hqYV4O5lQgaj9pNos\/U="}
+
+2021-05-28 13:14:09
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:14:10
+Action_getlist
+
+2021-05-28 13:14:10
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:14:10
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178850,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"0","Sign":"ztR9aJ6OgpeL7v50+EmGkRmtWSh68JK5FqDO93s0tog="}
+
+2021-05-28 13:14:10
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:14:11
+Action_getlist
+
+2021-05-28 13:14:11
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:14:11
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178851,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"HqOWpEEyFdcmOMg11rpbYeoVOBQnIa+FFGriavaYz94="}
+
+2021-05-28 13:14:11
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:14:12
+Action_getlist
+
+2021-05-28 13:14:12
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:14:12
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178852,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"Tw+7hwypMAVM5SvTphqFCXa38cz\/4fBAi9q+Jb3lHEE="}
+
+2021-05-28 13:14:12
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:14:13
+Action_getlist
+
+2021-05-28 13:14:13
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:14:13
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178853,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"0","Sign":"ANh+YZ+O4TLlMl8+28N+VASfAC6\/Xq2scXl5WPlQ3ow="}
+
+2021-05-28 13:14:13
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:14:14
+Action_getlist
+
+2021-05-28 13:14:14
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:14:14
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178854,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"WdHC4Nyw2oxooXtdFrFFrL1h6MSXLQjUeFNM5u56Xq4="}
+
+2021-05-28 13:14:14
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:14:28
+Action_getlist
+
+2021-05-28 13:14:28
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:14:28
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178868,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"0","Sign":"k\/mKDfMEhmSi9NmYyavk7QvHBCRHfMP76Iki9jbpfEs="}
+
+2021-05-28 13:14:28
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:14:39
+Action_getlist
+
+2021-05-28 13:14:39
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:14:39
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178879,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"pcK3lgbf+Cez3+Kd\/aaqJv8Z1XMhPFI6zNZGAAsUcg8="}
+
+2021-05-28 13:14:39
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:14:47
+Action_getlist
+
+2021-05-28 13:14:47
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:14:47
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178887,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"0","Sign":"FwICWErNpV5w6NjlguD20FGG4Nf3HdrK5tuLMTQuaH0="}
+
+2021-05-28 13:14:47
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:14:56
+Action_getlist
+
+2021-05-28 13:14:56
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:14:56
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178896,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"GlzrX26TqpVExYYW6FTnDKjmBbZYyuARmaAozc9zcvc="}
+
+2021-05-28 13:14:56
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:14:57
+Action_getlist
+
+2021-05-28 13:14:57
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:14:57
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178897,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"0","Sign":"nJPDF9EPAx5+4FRPFpvsx2QiO5M59Q9SoK7tILS9iok="}
+
+2021-05-28 13:14:57
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:15:14
+Action_index
+
+2021-05-28 13:15:14
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:15:14
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178914,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4B12345","VoucherStatus":1,"Sign":"IMihEVlopi+RR+DZ1giJT\/pJxPCEysLIRAuTFkOQafg="}
+
+2021-05-28 13:15:14
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1171,"Count":2,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1158,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1},{"RelationType":6,"BTVName":"外观","VPNMId":42,"VoucherId":1171,"ParkUserId":"2021040913294134388","Amount":"","VoucherStatus":1,"PushStatus":0,"EffTime":"2021-05-21","FailureTime":"2021-06-19","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":0,"FSMoney":"0","VPMoney":10,"UseType":1,"PayType":0,"AppeType":0,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 13:15:16
+Action_getlist
+
+2021-05-28 13:15:16
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:15:16
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178916,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"yVikioLYzNOadpbLkXbsjt9VvSdsEqmRfRPQBmknj+0="}
+
+2021-05-28 13:15:16
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+
+2021-05-28 13:15:17
+Action_getlist
+
+2021-05-28 13:15:17
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 13:15:17
+Request_{"AppId":"2017022215330002","AccessToken":"jKLKPZ+ywT2t6tvIVcq8jKVF1lflpr+RRIumD9OhUcMSuTTVg+bEVpth21oxcVH+","Nonce":1622178917,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"0","Sign":"fihrIgaJCxAjhL7cOKBoN9QSNj2td8TEmfK75L+VpTk="}
+
+2021-05-28 13:15:17
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":2,"DisableCount":0,"UsedCount":0,"Items":[],"DiscountData":[]}}
+

@@ -1,0 +1,27 @@
+2021-05-28 17:54:41
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 17:54:41
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622195681,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4123456","VoucherStatus":1,"Sign":"68LwBXdNJb5\/DW7OtE9UPnucfd5hZECXr8rlJ7hlrPA="}
+
+2021-05-28 17:54:42
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":0,"DisableCount":2,"UsedCount":1,"Items":[],"DiscountData":[]}}
+
+2021-05-28 17:55:04
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 17:55:04
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622195704,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4123456","VoucherStatus":1,"Sign":"znRP+lUvRGII2Gm8Fk94y5QzCFXpyS0BZJHALtOETHY="}
+
+2021-05-28 17:55:04
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":0,"DisableCount":2,"UsedCount":1,"Items":[],"DiscountData":[]}}
+
+2021-05-28 17:58:19
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 17:58:19
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622195899,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"PlateNumber":"\u7ca4123456","VoucherStatus":1,"Sign":"2ic4RT+KOMp3gHIaQWKRXeXdQlXGNWkcTvHe7zphwSs="}
+
+2021-05-28 17:58:19
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":0,"Count":0,"AvailableCount":0,"DisableCount":2,"UsedCount":1,"Items":[],"DiscountData":[]}}
+

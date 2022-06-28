@@ -1,0 +1,18 @@
+2021-05-31 13:38:09
+Url_http://198.98.98.161:1905/api/Users/Register
+
+2021-05-31 13:38:09
+Request_{"AppId":"2017022215330002","MobilePhone":"13294134388","Nonce":1622439489,"AuthCode":"929616","InviteCode":"929616","Password":"e10adc3949ba59abbe56e057f20f883e","DeviceToken":"Agz7f_fJBt_OuUerjaNCepuVsuvT7Cgr8vuj3p","SourceType":2,"citycode":null,"UserOpenId":"oR6kb1Y4lE2Rg-FsNvtX_ebSfyRE","Sign":"2cbS2MhA4uJ++Jz0NWvGECM65N4vKWKyPuqT3x2eHx0="}
+
+2021-05-31 13:38:09
+Response_{"RetCode":1,"Message":"参数验证失败, citycode为必填参数","Data":{}}
+
+2021-05-31 13:40:24
+Url_http://198.98.98.161:1905/api/Users/Register
+
+2021-05-31 13:40:24
+Request_{"AppId":"2017022215330002","MobilePhone":"13294134388","Nonce":1622439624,"AuthCode":"128926","InviteCode":"128926","Password":"e10adc3949ba59abbe56e057f20f883e","DeviceToken":"Agz7f_fJBt_OuUerjaNCepuVsuvT7Cgr8vuj3p","SourceType":2,"citycode":"440600","UserOpenId":"oR6kb1Y4lE2Rg-FsNvtX_ebSfyRE","Sign":"+bDrRFtDEbL3nI+qcoHof+0BbsksyxMhp8l3KB21rOI="}
+
+2021-05-31 13:40:24
+Response_{"RetCode":1002,"Message":"抱歉，您的手机号已注册！","Data":{}}
+

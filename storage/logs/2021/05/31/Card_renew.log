@@ -1,0 +1,45 @@
+2021-05-31 14:23:41
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsList
+
+2021-05-31 14:23:41
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442221,"citycode":"440600","carCode":"\u7ca4123456","pageIndex":"1","pageSize":"20","Sign":"SLG3JC2y6coUeFlyme\/OuzZ8uFW6Q49vQrgG\/JgdKlA="}
+
+2021-05-31 14:23:41
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, 未获取合适的数据","Data":{}}
+
+2021-05-31 14:26:42
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsList
+
+2021-05-31 14:26:42
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442402,"citycode":"440600","carCode":"\u7ca4123456","pageIndex":"1","pageSize":"20","Sign":"J1rBN7AjXucVOKNFy1WaFWthB2vXBCGNB9EnhQj8jXE="}
+
+2021-05-31 14:26:42
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, 未获取合适的数据","Data":{}}
+
+2021-05-31 14:34:17
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsList
+
+2021-05-31 14:34:17
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442857,"citycode":"440600","carCode":"\u7ca4123456","pageIndex":"1","pageSize":"20","Sign":"d3f2SyY3Ud17qyBI5tYiFTTKgorBc6TLgQmnCEHWjjI="}
+
+2021-05-31 14:34:17
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, 未获取合适的数据","Data":{}}
+
+2021-05-31 14:35:16
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsList
+
+2021-05-31 14:35:16
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442916,"citycode":"440600","carCode":"\u7ca4123456","pageIndex":"1","pageSize":"20","Sign":"b8FGEVgQXvV4qV3qzDSdDFV+IQiGN+6624Y1AzK83qA="}
+
+2021-05-31 14:35:16
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, 未获取合适的数据","Data":{}}
+
+2021-05-31 14:35:39
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsList
+
+2021-05-31 14:35:39
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442939,"citycode":"440600","carCode":"\u7ca4123456","pageIndex":"1","pageSize":"20","Sign":"72Hxa7tEZB80LVF+HXI9xom7eSIj6bbY9Azv4p3JZ3M="}
+
+2021-05-31 14:35:40
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, 未获取合适的数据","Data":{}}
+

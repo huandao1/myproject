@@ -1,0 +1,9 @@
+2021-05-31 20:31:53
+Url_http://198.98.98.161:1905/api/Invoice/GetMonthOrderList
+
+2021-05-31 20:31:53
+Request_{"AppId":"2017022215330002","Nonce":1622464313,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","lastId":0,"pageSize":10,"Sign":"BLVvUMJfvrd7GuCNfVdZYt7aMlbnKg+Z4S7UZAFbh9k="}
+
+2021-05-31 20:31:53
+Response_{"RetCode":0,"Message":"success","Data":{"Count":1,"LastId":307,"Items":[{"ID":307,"BargainOrderCode":"307","BuyingChannel":2,"MobileNumber":"13717006624","BuAmount":"0.01","AddTime":"2021-02-03 11:45:53","MCName":"","MCardPrice":"","ParkingName":"","StartTime":"2021.02.04","EndTime":"2021.03.07","PlateNumber":"粤B45455"}]}}
+

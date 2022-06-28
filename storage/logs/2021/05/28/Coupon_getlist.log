@@ -1,0 +1,63 @@
+2021-05-28 17:54:49
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 17:54:49
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622195689,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"30SF8xjHyudCXHodcbrPWsKBERvSknmvrPVNDY\/m\/XY="}
+
+2021-05-28 17:54:49
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1164,"Count":1,"AvailableCount":0,"DisableCount":2,"UsedCount":1,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1164,"ParkUserId":"2020022713717006624","Amount":"","VoucherStatus":2,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 17:55:11
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 17:55:11
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622195711,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"0","Sign":"XMmzw00y2pUBbrr0ZsQKZoikwqQ9DB91zLHe4uS8oGo="}
+
+2021-05-28 17:55:11
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1154,"Count":1,"AvailableCount":0,"DisableCount":2,"UsedCount":1,"Items":[{"RelationType":4,"BTVName":"1111111111111","VPNMId":39,"VoucherId":1154,"ParkUserId":"2020022713717006624","Amount":"","VoucherStatus":0,"PushStatus":0,"EffTime":"2021-04-08","FailureTime":"2021-05-07","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":19,"UseType":1,"PayType":0,"AppeType":0,"VPNum":2}],"DiscountData":[]}}
+
+2021-05-28 17:58:23
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 17:58:23
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622195903,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"kNRHIwzTikl8P9NlIEU6wKVkvyWBBevsS0TEPJiju20="}
+
+2021-05-28 17:58:23
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1164,"Count":1,"AvailableCount":0,"DisableCount":2,"UsedCount":1,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1164,"ParkUserId":"2020022713717006624","Amount":"","VoucherStatus":2,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 18:05:29
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 18:05:29
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622196329,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"0","Sign":"2CcM13EUjLZEUR\/0W+MAB4c7I8VDvrsdUgduElX9ICo="}
+
+2021-05-28 18:05:29
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1154,"Count":1,"AvailableCount":0,"DisableCount":2,"UsedCount":1,"Items":[{"RelationType":4,"BTVName":"1111111111111","VPNMId":39,"VoucherId":1154,"ParkUserId":"2020022713717006624","Amount":"","VoucherStatus":0,"PushStatus":0,"EffTime":"2021-04-08","FailureTime":"2021-05-07","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":19,"UseType":1,"PayType":0,"AppeType":0,"VPNum":2}],"DiscountData":[]}}
+
+2021-05-28 18:05:31
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 18:05:31
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622196331,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"0sRfRb8Td8+MkswUue2b38Gh21LT9hCUgr6MwD4UfIE="}
+
+2021-05-28 18:05:31
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1164,"Count":1,"AvailableCount":0,"DisableCount":2,"UsedCount":1,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1164,"ParkUserId":"2020022713717006624","Amount":"","VoucherStatus":2,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1}],"DiscountData":[]}}
+
+2021-05-28 18:05:32
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 18:05:32
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622196332,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"0","Sign":"eTaGjf3tGhWooAz5NldLT+Aqr+WBmBmX2n7IZsSPb\/o="}
+
+2021-05-28 18:05:32
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1154,"Count":1,"AvailableCount":0,"DisableCount":2,"UsedCount":1,"Items":[{"RelationType":4,"BTVName":"1111111111111","VPNMId":39,"VoucherId":1154,"ParkUserId":"2020022713717006624","Amount":"","VoucherStatus":0,"PushStatus":0,"EffTime":"2021-04-08","FailureTime":"2021-05-07","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":19,"UseType":1,"PayType":0,"AppeType":0,"VPNum":2}],"DiscountData":[]}}
+
+2021-05-28 18:05:32
+Url_http://198.98.98.161:1905/api/Parkings/GetVoucherInfo
+
+2021-05-28 18:05:32
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622196332,"lastID":0,"pageSize":9999,"UseType":2,"PayType":0,"VoucherStatus":"2","Sign":"eQKuc5jblEahqf6QKBcgm69Nyc2pTAxZyQAErHUa\/i4="}
+
+2021-05-28 18:05:32
+Response_{"RetCode":0,"Message":"success","Data":{"LastId":1164,"Count":1,"AvailableCount":0,"DisableCount":2,"UsedCount":1,"Items":[{"RelationType":6,"BTVName":"防疫中心","VPNMId":41,"VoucherId":1164,"ParkUserId":"2020022713717006624","Amount":"","VoucherStatus":2,"PushStatus":0,"EffTime":"2021-05-20","FailureTime":"2021-06-18","VoucherType":0,"Method":0,"Superposition":1,"PaymentType":0,"IsPDA":1,"FSMoney":"0","VPMoney":5,"UseType":1,"PayType":0,"AppeType":5,"VPNum":1}],"DiscountData":[]}}
+

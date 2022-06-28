@@ -1,0 +1,36 @@
+2021-05-14 15:55:09
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsListDetail
+
+2021-05-14 15:55:09
+Request_{"AppId":"2017022215330002","AccessToken":"dg9ndjUPE\/FcT9hXu81DNS3s7unnUFYIO16ZooqrQeTjMMg3xqCJSVgS9zPIjTcx","Nonce":1620978909,"citycode":"440600","PlateNumber":"","pageIndex":"1","pageSize":"20","Sign":"cphr8+Xzhl79E677Fsal4at1IoEhgJ6x6AnB7RY+Dpk="}
+
+2021-05-14 15:55:09
+Response_{"RetCode":-1,"Message":"未获取合适的数据","Data":{}}
+
+2021-05-14 15:55:19
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsListDetail
+
+2021-05-14 15:55:19
+Request_{"AppId":"2017022215330002","AccessToken":"dg9ndjUPE\/FcT9hXu81DNS3s7unnUFYIO16ZooqrQeTjMMg3xqCJSVgS9zPIjTcx","Nonce":1620978919,"citycode":"440600","PlateNumber":"","pageIndex":"1","pageSize":"20","Sign":"9Y7+DGiB5SrdXhVru0TSY\/9oPw1jcl3\/H1eO3x1DDyI="}
+
+2021-05-14 15:55:19
+Response_{"RetCode":-1,"Message":"未获取合适的数据","Data":{}}
+
+2021-05-14 15:55:25
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsListDetail
+
+2021-05-14 15:55:25
+Request_{"AppId":"2017022215330002","AccessToken":"dg9ndjUPE\/FcT9hXu81DNS3s7unnUFYIO16ZooqrQeTjMMg3xqCJSVgS9zPIjTcx","Nonce":1620978925,"citycode":"440600","PlateNumber":"","pageIndex":"1","pageSize":"20","Sign":"hGuJbFX+iCkCAyMBPnUdepKHnSEEf2FSa9N8B25Gsao="}
+
+2021-05-14 15:55:25
+Response_{"RetCode":-1,"Message":"未获取合适的数据","Data":{}}
+
+2021-05-14 16:01:28
+Url_http://198.98.98.161:1905/api/Transaction/GetNoApplyArrearsListDetail
+
+2021-05-14 16:01:28
+Request_{"AppId":"2017022215330002","AccessToken":"dg9ndjUPE\/FcT9hXu81DNS3s7unnUFYIO16ZooqrQeTjMMg3xqCJSVgS9zPIjTcx","Nonce":1620979288,"citycode":"440600","PlateNumber":"","pageIndex":"1","pageSize":"20","Sign":"dQiZTayrplvVfGhaRR7B7jIENB9Cu2vJazXTai0snqg="}
+
+2021-05-14 16:01:28
+Response_{"RetCode":-1,"Message":"未获取合适的数据","Data":{}}
+

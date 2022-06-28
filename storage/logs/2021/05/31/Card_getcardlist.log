@@ -1,0 +1,234 @@
+2021-05-31 14:22:37
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-31 14:22:37
+Request_{"AppId":"2017022215330002","Nonce":1622442157,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"rhmguPfK0+Qo+aG+Nuzetqq91fSZmqaJ5Gtqh6KI0+A="}
+
+2021-05-31 14:22:40
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-31 14:22:43
+Url_http://198.98.98.161:1905/api/Coupon/GetMonthCardPolicy
+
+2021-05-31 14:22:43
+Request_{"AppId":"2017022215330002","Nonce":1622442163,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","Sign":"BdWc6IotGZT7CgBLpN71QMymRhjVKYITxN\/mlPUyvd4="}
+
+2021-05-31 14:22:43
+Url_http://198.98.98.161:1905/api/Cars/List
+
+2021-05-31 14:22:43
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442163,"Sign":"SAf6c\/CpZ44anutSMkQh+zcvDFWLaMfyUTI5J85ZM3M="}
+
+2021-05-31 14:22:43
+Response_{"RetCode":0,"Message":"success","Data":{"Items":[{"CarNo":"粤123456","Bind":1,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤BF55666","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B55556","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B45455","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B77777","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"苏U64221","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B67689","Bind":0,"PlateStatus":0,"UseFlag":0}],"Count":7}}
+
+2021-05-31 14:22:44
+Response_{"RetCode":0,"Message":"success","Data":{"Count":4,"Items":[{"MCId":8,"MCName":"测试1-4","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"491caa36-e3e1-409a-ac0f-e669678a4376","CommunityName":"【测试】测试路段1-4","ParkName":"测试路段1,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":1},{"MCId":12,"MCName":"1/5","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"862ca313-8291-4391-8cd0-548d21e29730","CommunityName":"【测试】测试路段1-5","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8},{"MCId":10,"MCName":"0.01","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"e5dcc30d-74fa-4fbe-bdd9-19b7d2c2c796","CommunityName":"【测试】凤祥南路-桂洲大道中-容奇大道中-文华路1（天佑城-红旗东路口）-文华路2（桂洲中学-文塔公园）-振华路","ParkName":"凤祥南路,桂洲大道中,容奇大道中,文华路1（天佑城-红旗东路口）,文华路2（桂洲中学-文塔公园）,振华路","Status":1,"Saturation":0,"MCardNum":2},{"MCId":13,"MCName":"1-3","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"2b8f73dc-c451-474f-a1e8-c8c702d40fe0","CommunityName":"测试路段1-3","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8}],"MaxMonth":3}}
+
+2021-05-31 14:22:50
+Url_http://198.98.98.161:1905/api/Coupon/GetMonthCardPolicy
+
+2021-05-31 14:22:50
+Request_{"AppId":"2017022215330002","Nonce":1622442170,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","Sign":"OKxCrVg266a+3WRTtftlfjiE\/AT3J8UFxbwJ\/CveT84="}
+
+2021-05-31 14:22:50
+Url_http://198.98.98.161:1905/api/Cars/List
+
+2021-05-31 14:22:50
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442170,"Sign":"EEBIUwfD0mhb3WJkYBliCrOdMFZDdYKeWbfbzUtuOBA="}
+
+2021-05-31 14:22:50
+Response_{"RetCode":0,"Message":"success","Data":{"Count":4,"Items":[{"MCId":8,"MCName":"测试1-4","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"491caa36-e3e1-409a-ac0f-e669678a4376","CommunityName":"【测试】测试路段1-4","ParkName":"测试路段1,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":1},{"MCId":12,"MCName":"1/5","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"862ca313-8291-4391-8cd0-548d21e29730","CommunityName":"【测试】测试路段1-5","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8},{"MCId":10,"MCName":"0.01","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"e5dcc30d-74fa-4fbe-bdd9-19b7d2c2c796","CommunityName":"【测试】凤祥南路-桂洲大道中-容奇大道中-文华路1（天佑城-红旗东路口）-文华路2（桂洲中学-文塔公园）-振华路","ParkName":"凤祥南路,桂洲大道中,容奇大道中,文华路1（天佑城-红旗东路口）,文华路2（桂洲中学-文塔公园）,振华路","Status":1,"Saturation":0,"MCardNum":2},{"MCId":13,"MCName":"1-3","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"2b8f73dc-c451-474f-a1e8-c8c702d40fe0","CommunityName":"测试路段1-3","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8}],"MaxMonth":3}}
+
+2021-05-31 14:22:50
+Response_{"RetCode":0,"Message":"success","Data":{"Items":[{"CarNo":"粤123456","Bind":1,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤BF55666","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B55556","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B45455","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B77777","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"苏U64221","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B67689","Bind":0,"PlateStatus":0,"UseFlag":0}],"Count":7}}
+
+2021-05-31 14:23:31
+Url_http://198.98.98.161:1905/api/Cars/List
+
+2021-05-31 14:23:31
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442211,"Sign":"\/eSy94GqJi0gy63JHU+\/CB5a\/lkboJQ4B7MS3QRWsiY="}
+
+2021-05-31 14:23:31
+Url_http://198.98.98.161:1905/api/Coupon/GetMonthCardPolicy
+
+2021-05-31 14:23:31
+Request_{"AppId":"2017022215330002","Nonce":1622442211,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","Sign":"63b+B0wO+yjkl\/zbIeAr1iodespciGVbMFvEoWRYAew="}
+
+2021-05-31 14:23:31
+Response_{"RetCode":0,"Message":"success","Data":{"Items":[{"CarNo":"粤123456","Bind":1,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤BF55666","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B55556","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B45455","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B77777","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"苏U64221","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B67689","Bind":0,"PlateStatus":0,"UseFlag":0}],"Count":7}}
+
+2021-05-31 14:23:31
+Response_{"RetCode":0,"Message":"success","Data":{"Count":4,"Items":[{"MCId":8,"MCName":"测试1-4","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"491caa36-e3e1-409a-ac0f-e669678a4376","CommunityName":"【测试】测试路段1-4","ParkName":"测试路段1,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":1},{"MCId":12,"MCName":"1/5","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"862ca313-8291-4391-8cd0-548d21e29730","CommunityName":"【测试】测试路段1-5","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8},{"MCId":10,"MCName":"0.01","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"e5dcc30d-74fa-4fbe-bdd9-19b7d2c2c796","CommunityName":"【测试】凤祥南路-桂洲大道中-容奇大道中-文华路1（天佑城-红旗东路口）-文华路2（桂洲中学-文塔公园）-振华路","ParkName":"凤祥南路,桂洲大道中,容奇大道中,文华路1（天佑城-红旗东路口）,文华路2（桂洲中学-文塔公园）,振华路","Status":1,"Saturation":0,"MCardNum":2},{"MCId":13,"MCName":"1-3","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"2b8f73dc-c451-474f-a1e8-c8c702d40fe0","CommunityName":"测试路段1-3","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8}],"MaxMonth":3}}
+
+2021-05-31 14:23:36
+Url_http://198.98.98.161:1905/api/Coupon/GetMonthCardPolicy
+
+2021-05-31 14:23:36
+Request_{"AppId":"2017022215330002","Nonce":1622442216,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","Sign":"FMm+fBlxmcttHYHPj+6D6O4h7\/xg8OZbAGnBHKc5qWM="}
+
+2021-05-31 14:23:36
+Response_{"RetCode":0,"Message":"success","Data":{"Count":4,"Items":[{"MCId":8,"MCName":"测试1-4","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"491caa36-e3e1-409a-ac0f-e669678a4376","CommunityName":"【测试】测试路段1-4","ParkName":"测试路段1,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":1},{"MCId":12,"MCName":"1/5","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"862ca313-8291-4391-8cd0-548d21e29730","CommunityName":"【测试】测试路段1-5","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8},{"MCId":10,"MCName":"0.01","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"e5dcc30d-74fa-4fbe-bdd9-19b7d2c2c796","CommunityName":"【测试】凤祥南路-桂洲大道中-容奇大道中-文华路1（天佑城-红旗东路口）-文华路2（桂洲中学-文塔公园）-振华路","ParkName":"凤祥南路,桂洲大道中,容奇大道中,文华路1（天佑城-红旗东路口）,文华路2（桂洲中学-文塔公园）,振华路","Status":1,"Saturation":0,"MCardNum":2},{"MCId":13,"MCName":"1-3","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"2b8f73dc-c451-474f-a1e8-c8c702d40fe0","CommunityName":"测试路段1-3","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8}],"MaxMonth":3}}
+
+2021-05-31 14:23:36
+Url_http://198.98.98.161:1905/api/Cars/List
+
+2021-05-31 14:23:36
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442216,"Sign":"6kVluycbNCqf\/p2pBAd6LWbfXTmglFo9Nx8a0PBGVGM="}
+
+2021-05-31 14:23:36
+Response_{"RetCode":0,"Message":"success","Data":{"Items":[{"CarNo":"粤123456","Bind":1,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤BF55666","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B55556","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B45455","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B77777","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"苏U64221","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B67689","Bind":0,"PlateStatus":0,"UseFlag":0}],"Count":7}}
+
+2021-05-31 14:25:38
+Url_http://198.98.98.161:1905/api/Cars/List
+
+2021-05-31 14:25:38
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442338,"Sign":"jjqJN7LhDP97s9c3fwS0TUwErsbnAhitDhhlaUA8wv8="}
+
+2021-05-31 14:25:38
+Response_{"RetCode":0,"Message":"success","Data":{"Items":[{"CarNo":"粤123456","Bind":1,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤BF55666","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B55556","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B45455","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B77777","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"苏U64221","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B67689","Bind":0,"PlateStatus":0,"UseFlag":0}],"Count":7}}
+
+2021-05-31 14:25:38
+Url_http://198.98.98.161:1905/api/Coupon/GetMonthCardPolicy
+
+2021-05-31 14:25:38
+Request_{"AppId":"2017022215330002","Nonce":1622442338,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","Sign":"0mGmPrUFIw5k0pwop4ofldnaNdx4A50LHO0n1ONjhGY="}
+
+2021-05-31 14:25:38
+Response_{"RetCode":0,"Message":"success","Data":{"Count":4,"Items":[{"MCId":8,"MCName":"测试1-4","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"491caa36-e3e1-409a-ac0f-e669678a4376","CommunityName":"【测试】测试路段1-4","ParkName":"测试路段1,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":1},{"MCId":12,"MCName":"1/5","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"862ca313-8291-4391-8cd0-548d21e29730","CommunityName":"【测试】测试路段1-5","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8},{"MCId":10,"MCName":"0.01","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"e5dcc30d-74fa-4fbe-bdd9-19b7d2c2c796","CommunityName":"【测试】凤祥南路-桂洲大道中-容奇大道中-文华路1（天佑城-红旗东路口）-文华路2（桂洲中学-文塔公园）-振华路","ParkName":"凤祥南路,桂洲大道中,容奇大道中,文华路1（天佑城-红旗东路口）,文华路2（桂洲中学-文塔公园）,振华路","Status":1,"Saturation":0,"MCardNum":2},{"MCId":13,"MCName":"1-3","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"2b8f73dc-c451-474f-a1e8-c8c702d40fe0","CommunityName":"测试路段1-3","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8}],"MaxMonth":3}}
+
+2021-05-31 14:26:24
+Url_http://198.98.98.161:1905/api/Coupon/GetMonthCardPolicy
+
+2021-05-31 14:26:24
+Request_{"AppId":"2017022215330002","Nonce":1622442384,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","Sign":"jLgNFtc6c+rFYRXvklLZ5F5Hrg23mu1ay6jGf8twS7Q="}
+
+2021-05-31 14:26:24
+Url_http://198.98.98.161:1905/api/Cars/List
+
+2021-05-31 14:26:24
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442384,"Sign":"9ESKfH9p0q01iXROKOMmx86Z25CPV75UC90nmEyRehw="}
+
+2021-05-31 14:26:24
+Response_{"RetCode":0,"Message":"success","Data":{"Count":4,"Items":[{"MCId":8,"MCName":"测试1-4","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"491caa36-e3e1-409a-ac0f-e669678a4376","CommunityName":"【测试】测试路段1-4","ParkName":"测试路段1,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":1},{"MCId":12,"MCName":"1/5","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"862ca313-8291-4391-8cd0-548d21e29730","CommunityName":"【测试】测试路段1-5","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8},{"MCId":10,"MCName":"0.01","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"e5dcc30d-74fa-4fbe-bdd9-19b7d2c2c796","CommunityName":"【测试】凤祥南路-桂洲大道中-容奇大道中-文华路1（天佑城-红旗东路口）-文华路2（桂洲中学-文塔公园）-振华路","ParkName":"凤祥南路,桂洲大道中,容奇大道中,文华路1（天佑城-红旗东路口）,文华路2（桂洲中学-文塔公园）,振华路","Status":1,"Saturation":0,"MCardNum":2},{"MCId":13,"MCName":"1-3","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"2b8f73dc-c451-474f-a1e8-c8c702d40fe0","CommunityName":"测试路段1-3","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8}],"MaxMonth":3}}
+
+2021-05-31 14:26:24
+Response_{"RetCode":0,"Message":"success","Data":{"Items":[{"CarNo":"粤123456","Bind":1,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤BF55666","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B55556","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B45455","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B77777","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"苏U64221","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B67689","Bind":0,"PlateStatus":0,"UseFlag":0}],"Count":7}}
+
+2021-05-31 14:26:48
+Url_http://198.98.98.161:1905/api/Coupon/GetMonthCardPolicy
+
+2021-05-31 14:26:48
+Request_{"AppId":"2017022215330002","Nonce":1622442408,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","Sign":"SeKX2GgUb9qSP9DKE\/+yHXIwddMPt2RPL0qcUbtI+Ns="}
+
+2021-05-31 14:26:48
+Url_http://198.98.98.161:1905/api/Cars/List
+
+2021-05-31 14:26:48
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442408,"Sign":"9mfeGL\/YLxj+5VwArzzNEOx22bxbBg7FO6JI5D5I\/eU="}
+
+2021-05-31 14:26:48
+Response_{"RetCode":0,"Message":"success","Data":{"Items":[{"CarNo":"粤123456","Bind":1,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤BF55666","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B55556","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B45455","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B77777","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"苏U64221","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B67689","Bind":0,"PlateStatus":0,"UseFlag":0}],"Count":7}}
+
+2021-05-31 14:26:48
+Response_{"RetCode":0,"Message":"success","Data":{"Count":4,"Items":[{"MCId":8,"MCName":"测试1-4","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"491caa36-e3e1-409a-ac0f-e669678a4376","CommunityName":"【测试】测试路段1-4","ParkName":"测试路段1,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":1},{"MCId":12,"MCName":"1/5","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"862ca313-8291-4391-8cd0-548d21e29730","CommunityName":"【测试】测试路段1-5","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8},{"MCId":10,"MCName":"0.01","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"e5dcc30d-74fa-4fbe-bdd9-19b7d2c2c796","CommunityName":"【测试】凤祥南路-桂洲大道中-容奇大道中-文华路1（天佑城-红旗东路口）-文华路2（桂洲中学-文塔公园）-振华路","ParkName":"凤祥南路,桂洲大道中,容奇大道中,文华路1（天佑城-红旗东路口）,文华路2（桂洲中学-文塔公园）,振华路","Status":1,"Saturation":0,"MCardNum":2},{"MCId":13,"MCName":"1-3","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"2b8f73dc-c451-474f-a1e8-c8c702d40fe0","CommunityName":"测试路段1-3","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8}],"MaxMonth":3}}
+
+2021-05-31 14:34:15
+Url_http://198.98.98.161:1905/api/Coupon/GetMonthCardPolicy
+
+2021-05-31 14:34:15
+Request_{"AppId":"2017022215330002","Nonce":1622442855,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","Sign":"jVF+G1PXYqMsl1PCkvqYEZThvjF5O2XmImoVbvZ9mnE="}
+
+2021-05-31 14:34:15
+Url_http://198.98.98.161:1905/api/Cars/List
+
+2021-05-31 14:34:15
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442855,"Sign":"boRyQt0i58nk1U7LDGwUvQcySSwlAxhYNeTvGXOnFT0="}
+
+2021-05-31 14:34:15
+Response_{"RetCode":0,"Message":"success","Data":{"Count":4,"Items":[{"MCId":8,"MCName":"测试1-4","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"491caa36-e3e1-409a-ac0f-e669678a4376","CommunityName":"【测试】测试路段1-4","ParkName":"测试路段1,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":1},{"MCId":12,"MCName":"1/5","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"862ca313-8291-4391-8cd0-548d21e29730","CommunityName":"【测试】测试路段1-5","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8},{"MCId":10,"MCName":"0.01","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"e5dcc30d-74fa-4fbe-bdd9-19b7d2c2c796","CommunityName":"【测试】凤祥南路-桂洲大道中-容奇大道中-文华路1（天佑城-红旗东路口）-文华路2（桂洲中学-文塔公园）-振华路","ParkName":"凤祥南路,桂洲大道中,容奇大道中,文华路1（天佑城-红旗东路口）,文华路2（桂洲中学-文塔公园）,振华路","Status":1,"Saturation":0,"MCardNum":2},{"MCId":13,"MCName":"1-3","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"2b8f73dc-c451-474f-a1e8-c8c702d40fe0","CommunityName":"测试路段1-3","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8}],"MaxMonth":3}}
+
+2021-05-31 14:34:15
+Response_{"RetCode":0,"Message":"success","Data":{"Items":[{"CarNo":"粤123456","Bind":1,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤BF55666","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B55556","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B45455","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B77777","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"苏U64221","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B67689","Bind":0,"PlateStatus":0,"UseFlag":0}],"Count":7}}
+
+2021-05-31 14:35:13
+Url_http://198.98.98.161:1905/api/Coupon/GetMonthCardPolicy
+
+2021-05-31 14:35:13
+Request_{"AppId":"2017022215330002","Nonce":1622442913,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","Sign":"yDp+uB++u0H3qI3l127OVO8BREJmP7akFDMqhxtKGzE="}
+
+2021-05-31 14:35:13
+Url_http://198.98.98.161:1905/api/Cars/List
+
+2021-05-31 14:35:13
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442913,"Sign":"m6LuXbNaVzvpq\/kjmK3yM60Dn0PCyX3NX8dE\/fbbYVg="}
+
+2021-05-31 14:35:13
+Response_{"RetCode":0,"Message":"success","Data":{"Count":4,"Items":[{"MCId":8,"MCName":"测试1-4","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"491caa36-e3e1-409a-ac0f-e669678a4376","CommunityName":"【测试】测试路段1-4","ParkName":"测试路段1,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":1},{"MCId":12,"MCName":"1/5","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"862ca313-8291-4391-8cd0-548d21e29730","CommunityName":"【测试】测试路段1-5","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8},{"MCId":10,"MCName":"0.01","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"e5dcc30d-74fa-4fbe-bdd9-19b7d2c2c796","CommunityName":"【测试】凤祥南路-桂洲大道中-容奇大道中-文华路1（天佑城-红旗东路口）-文华路2（桂洲中学-文塔公园）-振华路","ParkName":"凤祥南路,桂洲大道中,容奇大道中,文华路1（天佑城-红旗东路口）,文华路2（桂洲中学-文塔公园）,振华路","Status":1,"Saturation":0,"MCardNum":2},{"MCId":13,"MCName":"1-3","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"2b8f73dc-c451-474f-a1e8-c8c702d40fe0","CommunityName":"测试路段1-3","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8}],"MaxMonth":3}}
+
+2021-05-31 14:35:13
+Response_{"RetCode":0,"Message":"success","Data":{"Items":[{"CarNo":"粤123456","Bind":1,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤BF55666","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B55556","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B45455","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B77777","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"苏U64221","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B67689","Bind":0,"PlateStatus":0,"UseFlag":0}],"Count":7}}
+
+2021-05-31 14:35:23
+Url_http://198.98.98.161:1905/api/Cars/List
+
+2021-05-31 14:35:23
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442923,"Sign":"\/H7bcR3x\/v8\/O5Fx4qRLsyioZBen8b9ON2kGojjS4yM="}
+
+2021-05-31 14:35:23
+Url_http://198.98.98.161:1905/api/Coupon/GetMonthCardPolicy
+
+2021-05-31 14:35:23
+Request_{"AppId":"2017022215330002","Nonce":1622442923,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","Sign":"K52BOqM3VuH7TkGBDwWxErpCRxKJyktBD08V+4bqSfQ="}
+
+2021-05-31 14:35:23
+Response_{"RetCode":0,"Message":"success","Data":{"Items":[{"CarNo":"粤123456","Bind":1,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤BF55666","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B55556","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B45455","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B77777","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"苏U64221","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B67689","Bind":0,"PlateStatus":0,"UseFlag":0}],"Count":7}}
+
+2021-05-31 14:35:23
+Response_{"RetCode":0,"Message":"success","Data":{"Count":4,"Items":[{"MCId":8,"MCName":"测试1-4","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"491caa36-e3e1-409a-ac0f-e669678a4376","CommunityName":"【测试】测试路段1-4","ParkName":"测试路段1,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":1},{"MCId":12,"MCName":"1/5","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"862ca313-8291-4391-8cd0-548d21e29730","CommunityName":"【测试】测试路段1-5","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8},{"MCId":10,"MCName":"0.01","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"e5dcc30d-74fa-4fbe-bdd9-19b7d2c2c796","CommunityName":"【测试】凤祥南路-桂洲大道中-容奇大道中-文华路1（天佑城-红旗东路口）-文华路2（桂洲中学-文塔公园）-振华路","ParkName":"凤祥南路,桂洲大道中,容奇大道中,文华路1（天佑城-红旗东路口）,文华路2（桂洲中学-文塔公园）,振华路","Status":1,"Saturation":0,"MCardNum":2},{"MCId":13,"MCName":"1-3","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"2b8f73dc-c451-474f-a1e8-c8c702d40fe0","CommunityName":"测试路段1-3","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8}],"MaxMonth":3}}
+
+2021-05-31 14:35:47
+Url_http://198.98.98.161:1905/api/Coupon/UserBuyMonthCard
+
+2021-05-31 14:35:47
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622442947,"CityCode":"440600","PayType":4,"MCId":"12","MonthNum":"1","CardPrice":"0.01","PlateNumber":"\u7ca4123456","PlateNumberType":"1","CommunityID":"862ca313-8291-4391-8cd0-548d21e29730","trade_type":2,"BuyingChannel":3,"openid":"oR6kb1Y4lE2Rg-FsNvtX_ebSfyRE","Sign":"uyzp\/MMXPEgXTTfERJm0wS3zDOqIKC8CGOL\/E9dpIsY="}
+
+2021-05-31 14:35:48
+Response_{"RetCode":0,"Message":"success","Data":{"ApplyMenth":1,"result":{"OrderId":"619220210531057560344226143U1","OrderAmount":0.01,"WFTResponse":{"Content":"https://qr.chinaums.com/netpay-portal/webpay/pay.do?srcReserce=04&msgSrc=WWW.GDDLZBTC.COM&requestTimestamp=2021-05-31+14%3A37%3A45&notifyUrl=http%3A%2F%2F58.250.57.68%3A1905%2Fapi%2Fpaymentnotify%2Fwftpay&returnUrl=http%3A%2F%2Frg.botongparking.com%2Fperson.php%3Fpayment_success%3Dy%26ordertype%3DU1&merOrderId=619220210531057560344226143U1&mid=898441175230005&tid=61306385&instMid=YUEDANDEFAULT&attachedData=%E5%AE%B9%E6%A1%82%E6%99%BA%E6%B3%8A%E6%9C%88%E5%8D%A1%E6%94%AF%E4%BB%98%E8%B4%B9%E7%94%A8&msgType=WXPay.jsPay&goods=%5B%7B%22goodsCategory%22%3A%22%E5%81%9C%E8%BD%A6%E7%BC%B4%E8%B4%B9%22%2C%22goodsId%22%3A%2202%22%2C%22goodsName%22%3A%22%E5%AE%B9%E6%A1%82%E6%99%BA%E6%B3%8A%E6%9C%88%E5%8D%A1%E6%94%AF%E4%BB%98%E8%B4%B9%E7%94%A8%22%2C%22body%22%3A%22%E5%B9%BF%E4%B8%9C%E4%B8%9C%E8%8F%B1%E6%99%BA%E6%B3%8A%E5%81%9C%E8%BD%A6%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%22%2C%22price%22%3A%221%22%2C%22quantity%22%3A1%7D%5D&totalAmount=1&sign=C799051DB0EBC94E595F3F1F637AE525"}}}}
+
+2021-05-31 14:43:46
+Url_http://198.98.98.161:1905/api/Coupon/GetMonthCardPolicy
+
+2021-05-31 14:43:46
+Request_{"AppId":"2017022215330002","Nonce":1622443426,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","Sign":"e1R6hjxOt0wpjwqAfAK+pdzBD4vlKh2lLimGTbTUnE0="}
+
+2021-05-31 14:43:46
+Url_http://198.98.98.161:1905/api/Cars/List
+
+2021-05-31 14:43:46
+Request_{"AppId":"2017022215330002","AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","Nonce":1622443426,"Sign":"GBVj2ETORe2u5nZpRffqcqDPHZQMyJfAAHaMfCmeJtw="}
+
+2021-05-31 14:43:48
+Response_{"RetCode":0,"Message":"success","Data":{"Items":[{"CarNo":"粤123456","Bind":1,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤BF55666","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B55556","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B45455","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B77777","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"苏U64221","Bind":0,"PlateStatus":0,"UseFlag":0},{"CarNo":"粤B67689","Bind":0,"PlateStatus":0,"UseFlag":0}],"Count":7}}
+
+2021-05-31 14:43:48
+Response_{"RetCode":0,"Message":"success","Data":{"Count":4,"Items":[{"MCId":8,"MCName":"测试1-4","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"491caa36-e3e1-409a-ac0f-e669678a4376","CommunityName":"【测试】测试路段1-4","ParkName":"测试路段1,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":1},{"MCId":12,"MCName":"1/5","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"862ca313-8291-4391-8cd0-548d21e29730","CommunityName":"【测试】测试路段1-5","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8},{"MCId":10,"MCName":"0.01","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"e5dcc30d-74fa-4fbe-bdd9-19b7d2c2c796","CommunityName":"【测试】凤祥南路-桂洲大道中-容奇大道中-文华路1（天佑城-红旗东路口）-文华路2（桂洲中学-文塔公园）-振华路","ParkName":"凤祥南路,桂洲大道中,容奇大道中,文华路1（天佑城-红旗东路口）,文华路2（桂洲中学-文塔公园）,振华路","Status":1,"Saturation":0,"MCardNum":2},{"MCId":13,"MCName":"1-3","PlateNumberType":"","MCardPrice":"0.01","CommunityID":"2b8f73dc-c451-474f-a1e8-c8c702d40fe0","CommunityName":"测试路段1-3","ParkName":"测试路段1,测试路段2,测试路段3,测试路段4,测试路段5","Status":1,"Saturation":0,"MCardNum":8}],"MaxMonth":3}}
+
+2021-05-31 14:56:04
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-31 14:56:04
+Request_{"AppId":"2017022215330002","Nonce":1622444164,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"B+5CFNRuRbT3M32OT\/CM78XkjLHj0TvI82XGzu3Nluw="}
+
+2021-05-31 14:56:04
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+
+2021-05-31 16:21:15
+Url_http://198.98.98.161:1905/api/Coupon/GetUserMonthCard
+
+2021-05-31 16:21:15
+Request_{"AppId":"2017022215330002","Nonce":1622449275,"AccessToken":"3CyYn26L4K03FEtw7FbST8eYrRgxmfcQyXi5qCU2+8FrF15ZJ6zyO39rtcOAho76","CityCode":"440600","CardStatus":1,"Sign":"NQ497BaxlFb46Xut0zlJ0iBTpG+6AcNUXwviqE8Kr6c="}
+
+2021-05-31 16:21:20
+Response_{"RetCode":4,"Message":"没有你合适的信息，请重新获取！, ","Data":{}}
+

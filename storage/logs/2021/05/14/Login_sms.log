@@ -1,0 +1,63 @@
+2021-05-14 15:55:04
+Url_http://198.98.98.161:1905/api/Users/Login
+
+2021-05-14 15:55:04
+Request_{"AppId":"2017022215330002","Nonce":1620978904,"MobilePhone":"13294134388","DeviceToken":"Agz7f_fJBt_OuUerjaNCepuVsuvT7Cgr8vuj3p","UserOpenId":"oR6kb1Y4lE2Rg-FsNvtX_ebSfyRE","LoginType":2,"CityCode":"440600","AuthCode":"457029","Sign":"4ZH+kmliHkD6dmPqaKkPNNc7Z3UgIi0p4w7hr2DYzNg="}
+
+2021-05-14 15:55:05
+Response_{"RetCode":0,"Message":"success","Data":{"ImageUrl":null,"AccessToken":"dg9ndjUPE/FcT9hXu81DNS3s7unnUFYIO16ZooqrQeTjMMg3xqCJSVgS9zPIjTcx","PayPswState":2,"LoginPswState":2,"isFirstLogin":0}}
+
+2021-05-14 16:50:20
+Url_http://198.98.98.161:1905/api/Users/Login
+
+2021-05-14 16:50:20
+Request_{"AppId":"2017022215330002","Nonce":1620982220,"MobilePhone":"1322","DeviceToken":"Agz7f_fJBt_OuUerjaNCepuVsuvT7Cgr8vuj3p","UserOpenId":"oR6kb1Y4lE2Rg-FsNvtX_ebSfyRE","LoginType":2,"CityCode":"440600","AuthCode":"","Sign":"oiohbiE7yYKH2GQIQytLNQ9QifiWkZfD1tkY5VuChAQ="}
+
+2021-05-14 16:50:20
+Response_{"RetCode":1,"Message":"参数验证失败, MobilePhone格式不符","Data":{}}
+
+2021-05-14 16:51:02
+Url_http://198.98.98.161:1905/api/Users/Login
+
+2021-05-14 16:51:02
+Request_{"AppId":"2017022215330002","Nonce":1620982262,"MobilePhone":"1322","DeviceToken":"Agz7f_fJBt_OuUerjaNCepuVsuvT7Cgr8vuj3p","UserOpenId":"oR6kb1Y4lE2Rg-FsNvtX_ebSfyRE","LoginType":2,"CityCode":"440600","AuthCode":"","Sign":"JizrN\/\/nEgh2p2I1Zik\/hTiMUZZ1tpODEliGljlOQkg="}
+
+2021-05-14 16:51:02
+Response_{"RetCode":1,"Message":"参数验证失败, MobilePhone格式不符","Data":{}}
+
+2021-05-14 16:51:04
+Url_http://198.98.98.161:1905/api/Users/Login
+
+2021-05-14 16:51:04
+Request_{"AppId":"2017022215330002","Nonce":1620982264,"MobilePhone":"1322","DeviceToken":"Agz7f_fJBt_OuUerjaNCepuVsuvT7Cgr8vuj3p","UserOpenId":"oR6kb1Y4lE2Rg-FsNvtX_ebSfyRE","LoginType":2,"CityCode":"440600","AuthCode":"","Sign":"lxfVLZP7Z0U6065gH8B3ifFsnkdRp\/G3J7ZikTCiqtQ="}
+
+2021-05-14 16:51:04
+Response_{"RetCode":1,"Message":"参数验证失败, MobilePhone格式不符","Data":{}}
+
+2021-05-14 16:51:04
+Url_http://198.98.98.161:1905/api/Users/Login
+
+2021-05-14 16:51:04
+Request_{"AppId":"2017022215330002","Nonce":1620982264,"MobilePhone":"1322","DeviceToken":"Agz7f_fJBt_OuUerjaNCepuVsuvT7Cgr8vuj3p","UserOpenId":"oR6kb1Y4lE2Rg-FsNvtX_ebSfyRE","LoginType":2,"CityCode":"440600","AuthCode":"","Sign":"lxfVLZP7Z0U6065gH8B3ifFsnkdRp\/G3J7ZikTCiqtQ="}
+
+2021-05-14 16:51:04
+Response_{"RetCode":1,"Message":"参数验证失败, MobilePhone格式不符","Data":{}}
+
+2021-05-14 16:52:20
+Url_http://198.98.98.161:1905/api/Users/Login
+
+2021-05-14 16:52:20
+Request_{"AppId":"2017022215330002","Nonce":1620982340,"MobilePhone":"1322","DeviceToken":"Agz7f_fJBt_OuUerjaNCepuVsuvT7Cgr8vuj3p","UserOpenId":"oR6kb1Y4lE2Rg-FsNvtX_ebSfyRE","LoginType":2,"CityCode":"440600","AuthCode":"","Sign":"SU4ylIyi6mUgeg1nTmyY0KDoB3nGkr+gUgTsxomqluo="}
+
+2021-05-14 16:52:20
+Response_{"RetCode":1,"Message":"参数验证失败, MobilePhone格式不符","Data":{}}
+
+2021-05-14 16:53:37
+Url_http://198.98.98.161:1905/api/Users/Login
+
+2021-05-14 16:53:37
+Request_{"AppId":"2017022215330002","Nonce":1620982417,"MobilePhone":"2222","DeviceToken":"Agz7f_fJBt_OuUerjaNCepuVsuvT7Cgr8vuj3p","UserOpenId":"oR6kb1Y4lE2Rg-FsNvtX_ebSfyRE","LoginType":2,"CityCode":"440600","AuthCode":"","Sign":"CtuosRMn6dFxga2K7ax4v6qBfOXZobh1ggUcz1okU8s="}
+
+2021-05-14 16:53:37
+Response_{"RetCode":1,"Message":"参数验证失败, MobilePhone格式不符","Data":{}}
+
