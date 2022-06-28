@@ -1,0 +1,2 @@
+# myproject
+show product
